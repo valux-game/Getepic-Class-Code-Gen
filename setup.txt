@@ -1,0 +1,17 @@
+Setup Windows
+
+PYTHON IS REQUIRED TO USE!!!
+
+Go to the github page
+Click Code
+Download zip file
+Extract zip file
+Run the file main.py
+
+Replit
+
+Click this link (soon)
+Click the Import From Github button
+Click the "Use run command" button on the configure panel
+Click save on the configure panel
+Run the replit
